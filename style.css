@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+table{
+  border-collapse: collapse;
+  width:80%;
+  margin:0 auto;
+}
+
+th{
+  border:1px solid black;
+  padding: 8px;
+  background: lightgray;
+}
+
+td{
+  border:1px solid black;
+  padding: 8px;
+}
